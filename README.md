@@ -1,1 +1,1 @@
-# quiz-for-my-girlfriend
+# Quiz for my girlfriend (HTML, CSS)
